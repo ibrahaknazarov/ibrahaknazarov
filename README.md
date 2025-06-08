@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm IBRA.CS student by CS50 Harword 
+I'm Ibra 
 
 <!--
 **ibrahaknazarov/ibrahaknazarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
